@@ -13,9 +13,9 @@ five qubits.
 
 ## Results
 
-|         | Local Realism  | QM | Experiment        |
+| Mermin  | Local Realism  | QM | Experiment        |
 |---------|----------------|----|-------------------|
-| 3-Qubit | 2              | 4  | 3.319 &\pm 0.009  |
-| 4-Qubit | 4              | 8  | 5.550 &\pm 0.028  |
-| 5-Qubit | 4              | 16 | 8.486 &\pm  0.094 |
+| 3-Qubit | 2              | 4  | 3.319 &pm 0.009  |
+| 4-Qubit | 4              | 8  | 5.550 &pm 0.028  |
+| 5-Qubit | 4              | 16 | 8.486 &pm  0.094 |
 
